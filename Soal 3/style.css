@@ -1,0 +1,60 @@
+body{
+  background-color: #F4F4F4;
+}
+
+
+.Produk{
+  background-color: white;
+  width: 20%;
+  border-radius: 10px;
+  padding: 10px;
+  border: 1.5px solid #E0E0E0;
+  margin: 10px;
+}
+
+.Produk img{
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  height: 60%;
+
+}
+
+.isi-produk{
+  padding: 10px;
+  text-align: center;
+}
+.img{
+  display: flex;
+  justify-content: center;
+}
+
+.isi-produk button{
+  background-color: rgb(255, 174, 0);
+  color: white;
+  padding: 10px;
+  width: 70%;
+  border: none;
+  cursor: pointer;
+  border-radius: 12px;
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+
+.text-style p{
+  text-align: center;
+  font-size: 1.3rem;
+  color: #6e6b6b;
+}
+
+.text-style h1{
+  text-align: center;
+  font-size: 2rem;
+  color: #000000;
+  font-weight: 600;
+}
+
+.daftar-produk{
+  display: flex;
+  margin-top: 20px;
+}

@@ -1,0 +1,158 @@
+body{
+  background-color: #F2F2F2;
+}
+
+.background{
+  margin-top: 4rem;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff;
+  width: 95%;
+  height: 76rem;
+  border-top-left-radius: 2rem;
+  border-top-right-radius: 2rem;
+}
+
+.top-background{
+  display: flex;
+  justify-content: center;
+  background-color: #8f8c8c;
+  width: 100%;
+  height: 350px;
+  border-top-left-radius: 2rem;
+  border-top-right-radius: 2rem;
+}
+.top-background img{
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: 2rem;
+  border-top-right-radius: 2rem;
+}
+
+.foto-profile{
+  display: flex;
+  justify-content: start;
+  margin-top: -5rem;
+  margin-left: 6rem;
+}
+
+.top-isi{
+  margin-top: 2rem;
+  margin-left: 6rem;
+  margin-right: 6rem;
+}
+
+.top-isi h1{
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+}
+
+.top-isi h2{
+  margin-top: 4rem;
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+}
+
+.tabel-data{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+}
+
+.baris-pertama div{
+  background-color: #F45846;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+  border-radius: 21px;
+  margin-right: 5rem;
+
+}
+.baris-kedua div{
+  background-color: #F45846;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+  border-radius: 21px;
+  margin-right: 5rem;
+}
+.baris-ketiga div{
+  background-color: #F45846;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+  border-radius: 21px;
+  margin-left: 5rem;
+}
+
+.footer{
+  margin-top: 2rem;
+  margin-left: 6rem;
+  margin-right: 6rem;
+}
+
+.footer h2{
+  margin-top: 4rem;
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+}
+
+.social-media{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+}
+
+.instagram{
+  display: flex;
+}
+
+.instagram img{
+  height: 35px;
+  width: 35px;
+}
+
+.instagram p{
+  margin-left: 1rem;
+  font-size: 1rem;
+}
+
+
+.youtube{
+  display: flex;
+}
+
+.youtube img{
+  height: 45px;
+  width: 39px;
+}
+
+.youtube p{
+  margin-left: 1rem;
+  font-size: 1rem;
+}
+
+
+.github{
+  display: flex;
+}
+
+.github img{
+  height: 45px;
+  width: 39px;
+}
+
+.github p{
+  margin-left: 1rem;
+  font-size: 1rem;
+}
